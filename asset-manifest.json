@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tobby-brooks-portfolio/static/css/main.237e1209.css",
+    "main.css": "/tobby-brooks-portfolio/static/css/main.30ef27bf.css",
     "main.js": "/tobby-brooks-portfolio/static/js/main.2d4b4063.js",
     "static/js/787.1ed0c42c.chunk.js": "/tobby-brooks-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/resume.pdf": "/tobby-brooks-portfolio/static/media/resume.52ec77adb271cf29dfb0.pdf",
@@ -11,12 +11,12 @@
     "static/media/SoleIntentions.jpg": "/tobby-brooks-portfolio/static/media/SoleIntentions.1ffbc9a4b39529a8dee7.jpg",
     "static/media/BudgetTracker.jpg": "/tobby-brooks-portfolio/static/media/BudgetTracker.64f861166dd004599d4a.jpg",
     "index.html": "/tobby-brooks-portfolio/index.html",
-    "main.237e1209.css.map": "/tobby-brooks-portfolio/static/css/main.237e1209.css.map",
+    "main.30ef27bf.css.map": "/tobby-brooks-portfolio/static/css/main.30ef27bf.css.map",
     "main.2d4b4063.js.map": "/tobby-brooks-portfolio/static/js/main.2d4b4063.js.map",
     "787.1ed0c42c.chunk.js.map": "/tobby-brooks-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.237e1209.css",
+    "static/css/main.30ef27bf.css",
     "static/js/main.2d4b4063.js"
   ]
 }
