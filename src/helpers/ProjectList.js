@@ -1,34 +1,40 @@
-import Proj1 from "../assets/proj1.jpg"
+import SoleIntentions from "../assets/SoleIntentions.jpg"
+import Newsify from "../assets/Newsify.jpg";
+import BookSearchEngine from "../assets/BookSearchEngine.jpg"
+import BudgetTracker from "../assets/BudgetTracker.jpg"
+import WorkDay from "../assets/WorkDay.jpg"
+import WeatherDashboard from "../assets/WeatherDashboard.jpg"
 
 export const ProjectList = [
     {
-        name: "Lorem ipsum",
-        image: Proj1,
-        skills: "nmvbnmm"
+        name: "Sole Intentions",
+        image: SoleIntentions,
+        skills: "nmvbnmm",
+        git: `https://github.com/1tbrooks1/sole_intentions`
     },
     {
-        name: "Lorem ipsum",
-        image: Proj1,
-        skills: ""
+        name: "Newsify",
+        image: Newsify,
+        skills: "hfdhshg"
     },
     {
-        name: "Lorem ipsum",
-        image: Proj1,
-        skills: ""
+        name: "Book Search Engine",
+        image: BookSearchEngine,
+        skills: "gfhdghd"
     },
     {
-        name: "Lorem ipsum",
-        image: Proj1,
-        skills: ""
+        name: "Budget Tracker",
+        image: BudgetTracker,
+        skills: "gfdhghd"
     },
     {
-        name: "Lorem ipsum",
-        image: Proj1,
-        skills: ""
+        name: "Work Day Scheduler",
+        image: WorkDay,
+        skills: "gfdhdfgh"
     },
     {
-        name: "Lorem ipsum",
-        image: Proj1,
-        skills: ""
+        name: "Weather Dashboard",
+        image: WeatherDashboard,
+        skills: "gfhdfghgfdh"
     }
 ]
