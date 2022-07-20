@@ -7,13 +7,15 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer"
 import ProjectDisplay from "./pages/ProjectDisplay";
 
+
 function App() {
   return (
     <div className="App">
       <Router>
         <Navbar />
+        <div className="welcome"><h1>Please use the navigation above to learn more about me.</h1></div>
         <Routes>
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<ProjectDisplay/>} />
           <Route path="/experience" element={<Experience />} />

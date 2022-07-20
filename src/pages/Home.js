@@ -3,6 +3,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn"
 import GitHubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email";
 import "../styles/Home.css"
+import resume from "../assets/resume.pdf"
 
 function Home() {
   return (
@@ -32,6 +33,7 @@ function Home() {
             <span> Git, GiHub, GitHub Pages, Heroku</span>
           </li>
         </ol>
+        <p className="item">You can download my resume <a href={resume} download target="_blank" rel="noreferrer">here</a></p>
       </div>
     </div>
   );
