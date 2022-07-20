@@ -9,10 +9,9 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <LinkedInIcon />
-        <GitHubIcon/>
-        <FacebookIcon/>
-        <EmailIcon/>
+      <a href="https://www.linkedin.com/in/tobby-brooks/"><LinkedInIcon/></a>
+      <a href="https://github.com/1tbrooks1"><GitHubIcon/></a>
+        <a href="mailto:tobbyb321@gamil.com"><EmailIcon/></a>
       </div>
       <p>&copy; 2022 TobbyBrooks</p>
     </div>

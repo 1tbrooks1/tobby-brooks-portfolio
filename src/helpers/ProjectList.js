@@ -9,32 +9,43 @@ export const ProjectList = [
     {
         name: "Sole Intentions",
         image: SoleIntentions,
-        skills: "nmvbnmm",
-        git: `https://github.com/1tbrooks1/sole_intentions`
+        skills: "JavaScript,CSS/Bootstrap,MySQL,Stripe",
+        git: `https://github.com/1tbrooks1/sole_intentions`,
+        link: `https://soleintentions.herokuapp.com/`
     },
     {
         name: "Newsify",
         image: Newsify,
-        skills: "hfdhshg"
+        skills: "HTML, CSS, JavaScript",
+        git: `https://github.com/1tbrooks1/Newsify`,
+        link: `https://yoowook1207.github.io/Newsify/`
     },
     {
         name: "Book Search Engine",
         image: BookSearchEngine,
-        skills: "gfhdghd"
+        skills: "React, JavaScript",
+        git: `https://github.com/1tbrooks1/tb-book-search`,
+        link: `https://safe-lowlands-27659.herokuapp.com/`
     },
     {
         name: "Budget Tracker",
         image: BudgetTracker,
-        skills: "gfdhghd"
+        skills: "HTML, CSS, JavaScript",
+        git: `https://github.com/1tbrooks1/tb-budget-tracker`,
+        link: `https://financialmonitor.herokuapp.com/`
     },
     {
         name: "Work Day Scheduler",
         image: WorkDay,
-        skills: "gfdhdfgh"
+        skills: "HTML, CSS/Bootstrap, JavaScript, jQuery",
+        git: `https://github.com/1tbrooks1/work-day`,
+        link: `https://1tbrooks1.github.io/work-day/`
     },
     {
         name: "Weather Dashboard",
         image: WeatherDashboard,
-        skills: "gfhdfghgfdh"
+        skills: "HTML, CSS/Bootstrap, JavaScript",
+        git: `https://github.com/1tbrooks1/weather-dashboard`,
+        link: `https://1tbrooks1.github.io/weather-dashboard/`
     }
 ]

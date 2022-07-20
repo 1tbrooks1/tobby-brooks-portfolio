@@ -18,11 +18,15 @@
   }
   
   .project p {
-    font-size: 40px;
+    font-size: 30px;
     color: #3e497a;
   }
   
   .project svg {
     font-size: 60px;
     color: #3e497a;
+  }
+
+  a {
+    text-decoration: none;
   }
